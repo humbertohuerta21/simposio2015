@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">facebook</string>
-</resources>
+    <string name="facebook_app_id">912869538748422</string>
+    </resources>
+
